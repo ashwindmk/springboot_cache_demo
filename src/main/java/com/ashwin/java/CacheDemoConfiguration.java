@@ -7,7 +7,7 @@ import org.springframework.context.annotation.Configuration;
 
 @Configuration
 @EnableCaching
-public class EhcacheDemoConfiguration {
+public class CacheDemoConfiguration {
     @Bean
     public StudentSource studentSource() {
         return new StudentSource();

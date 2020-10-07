@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.ashwin.java</groupId>
-	<artifactId>springboot-ehcache-demo</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
-	<name>springboot-ehcache-demo</name>
-	<description>Demo project for Spring Boot with Ehcache</description>
+	<artifactId>springboot-cache-demo</artifactId>
+	<version>0.0.1</version>
+	<name>springboot-cache-demo</name>
+	<description>Spring Boot cache demo project</description>
 
 	<properties>
 		<java.version>11</java.version>
